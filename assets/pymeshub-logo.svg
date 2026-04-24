@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 48" width="200" height="48">
+  <!-- Icon mark: interlocking P shapes representing PYMES connectivity -->
+  <rect x="0" y="0" width="48" height="48" rx="10" fill="#1a56db"/>
+  <!-- Letter P left -->
+  <rect x="10" y="10" width="5" height="28" rx="2" fill="#ffffff"/>
+  <path d="M15 10 h8 a8 8 0 0 1 0 16 h-8 z" fill="#ffffff"/>
+  <!-- Letter P right (offset, lighter) -->
+  <rect x="26" y="18" width="4" height="20" rx="2" fill="#93c5fd"/>
+  <path d="M30 18 h6 a6 6 0 0 1 0 12 h-6 z" fill="#93c5fd"/>
+
+  <!-- Wordmark -->
+  <text x="58" y="30" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#111827">Pymes</text>
+  <text x="117" y="30" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#1a56db">Hub</text>
+  <!-- Tagline -->
+  <text x="58" y="42" font-family="Helvetica, Arial, sans-serif" font-size="8" fill="#6b7280" letter-spacing="1">PLATAFORMA SAAS PARA PYMES</text>
+</svg>
